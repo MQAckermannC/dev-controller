@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "MQAckermannC-dev-controller"
+description: "CloudBees CI configuration bundle for the MQAckermannC dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/mqackermannc/dev-controller"
+parent: "base"
